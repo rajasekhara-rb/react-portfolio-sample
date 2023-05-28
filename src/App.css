@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+/* extra css added to the template as required  */
+
+:root {
+  --main-color: #2e3c52;
+  --sec-color: #1cbb9c;
+  --text-color: #ffffff;
+}

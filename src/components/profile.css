@@ -1,0 +1,29 @@
+/* :root {
+    --main-color: #2e3c52;
+    --sec-color: #1cbb9c;
+    --text-color: #ffffff;
+} */
+
+
+#profile{
+    height: 100vh;
+    background-color: var(--sec-color);
+    color: var(--text-color);
+    /* font-weight: bolder; */
+    font-size: 25px;
+}
+
+#profile>h1{
+    color: var(--text-color);
+    font-weight: bold;
+    font-size: 80px;
+}
+
+#profile>img{
+    margin-top: 30px;
+    width: 250px;   
+}
+
+.icons>i{
+    font-size: 40px;
+}
